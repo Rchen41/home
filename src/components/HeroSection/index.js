@@ -57,7 +57,7 @@ const HeroSection = () => {
         </HeroBg>
         <HeroContent id="herocontent">
             <HeroH1>
-                david</HeroH1>
+                Regina</HeroH1>
             <HeroP>
                 here's a little bit of everything
             </HeroP>
