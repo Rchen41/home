@@ -11,7 +11,7 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'About me',
-  headline: 'David Liu',
+  headline: 'Regina Chen',
   description: <p>
     Hi! I've wanted to build my own website for the longest time so that I could try developing different things
     and also show a little bit about myself.
