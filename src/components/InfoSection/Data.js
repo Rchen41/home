@@ -13,16 +13,14 @@ export const homeObjOne = {
   topLine: 'About me',
   headline: 'Regina Chen',
   description: <p>
-    Hi! I've wanted to build my own website for the longest time so that I could try developing different things
-    and also show a little bit about myself.
+    Hi! As you can see this is my personal webpage.
     <br/><br/>
-    As a short intro, I was born and raised in NYC (or rather a small suburb of it)
-    and attended the <b style={{color: lightPurple}}>University of Chicago</b>,
-    and graduated in 2022 with a Bachelors
-    in Computer Science and Economics.
+    As a short intro, I was born and raised in NYC
+    and attended the <b style={{color: lightPurple}} Stuyvesant High School</b>,
+    and I am graduating in 2024 with a high school deploma.
     <br/><br/>
-    Today, I'm working remotely as a <b style={{color: lightPurple}}>Software Engineer at Yahoo</b>, while pursing some interests on the side.
-    It's been a pretty good time.
+    I'm currently a Junior that's interested in <b style={{color: lightPurple}}>Computer Science</b>.
+    So far, my experience at Stuy has been pretty good.
   </p>,
   buttonLabel: 'Resume',
   imgStart: false,
