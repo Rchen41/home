@@ -16,7 +16,7 @@ export const homeObjOne = {
     Hi! As you can see this is my personal webpage.
     <br/><br/>
     As a short intro, I was born and raised in NYC
-    and attended the <b style={{color: lightPurple}} Stuyvesant High School</b>,
+    and attended the <b style={{color: lightPurple}}>Stuyvesant High School</b>,
     and I am graduating in 2024 with a high school deploma.
     <br/><br/>
     I'm currently a Junior that's interested in <b style={{color: lightPurple}}>Computer Science</b>.
