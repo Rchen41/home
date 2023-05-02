@@ -25,11 +25,11 @@ export const homeObjOne = {
   buttonLabel: 'Resume',
   imgStart: false,
   img: require('../../images/profilepic.png'),
-  alt: 'David',
+  alt: 'Regina',
   dark: true,
   primary: true,
   darkText: false,
-  linkRef: "https://drive.google.com/file/d/1JJm_IAwIkRtoLOoDq6NWhVFz6OOE8Tpv/preview"
+  linkRef: "https://drive.google.com/drive/u/0/search?q=resume"
 }
 
 export const homeObjTwo = {
