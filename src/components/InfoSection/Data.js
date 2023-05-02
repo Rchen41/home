@@ -29,7 +29,7 @@ export const homeObjOne = {
   dark: true,
   primary: true,
   darkText: false,
-  linkRef: "https://drive.google.com/drive/u/0/search?q=resume"
+  linkRef: "https://docs.google.com/document/d/1f2H7l-bByoZ4JOKukgZNF6vxPg5iJO2qLRu8wQx3krc/preview"
 }
 
 export const homeObjTwo = {
