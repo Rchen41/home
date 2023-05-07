@@ -47,9 +47,7 @@ export const homeObjTwo = {
     During my free time, I would probably be playing open world rpg video games or reading light novels.
     Two of my favorite games right now are <b style={{color: darkPurple}}> Genshin Impact</b> 
     and <b style={{color: darkPurple}}> Honkai: Star Rail</b> because I really like the story lines, 
-    the characters and their Chinese voice actors.
-    <br/><br/>
-    
+    the characters and their Chinese voice actors.  
   </div>,
   buttonLabel: 'My spreadsheets',
   imgStart: true,
