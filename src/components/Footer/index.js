@@ -9,9 +9,8 @@ const Footer = () => {
       <FooterWrap>
         <FooterLinkItems>
           <FooterLinkTitle>Contact</FooterLinkTitle>
-          <FooterLink onClick={() => window.location.href = 'mailto:liudavid@uchicago.edu'}>Email</FooterLink>
-          <FooterLink to={"https://www.linkedin.com/in/liu00david/"}>Linkedin</FooterLink>
-          <FooterLink to={"https://github.com/liu00david"}>Github</FooterLink>
+          <FooterLink onClick={() => window.location.href = 'mailto:reginac0819@gmail.com'}>Email</FooterLink>
+          <FooterLink to={"https://github.com/Rchen41"}>Github</FooterLink>
           <FooterLink to="/signin">Online (TBD)</FooterLink>
           </FooterLinkItems>
 
