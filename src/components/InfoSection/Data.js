@@ -15,8 +15,8 @@ export const homeObjOne = {
   description: <p>
     Hi! As you can see this is my personal webpage.
     <br/><br/>
-    As a short intro, I was born and raised in NYC
-    and attended the <b style={{color: lightPurple}}>Stuyvesant High School</b>,
+    As a short intro, I was born and raised in NYC.
+    I am attending <b style={{color: lightPurple}}>Stuyvesant High School</b>,
     and I am graduating in 2024 with a high school deploma.
     <br/><br/>
     I'm currently a Junior that's interested in <b style={{color: lightPurple}}>Computer Science</b>.
@@ -41,24 +41,24 @@ export const homeObjTwo = {
   topLine: 'My Interests',
   headline: 'A bit of everything',
   description: <div>
-    In tech, through my current role as a <b style={{color: darkPurple}}>Production Engineer</b> I've garnered an interest
-    in automation and efficiencies, specifically on how to reduce and simplify existing systems using frameworks and AI.
+    In school, I am taking <b style={{color: darkPurple}}>AP Computer Science</b> where I'm 
+    learning algorithms using the programming language <b style={{color: darkPurple}}>java</b>.
     <br/><br/>
-    During my free time, I can be found building mechanical keyboards, cooking using food science,
-    <b style={{color: darkPurple}}> organizing spreadsheets</b>, adventuring outdoors, tutoring, working out,
-    and perusing law and crime news.
+    During my free time, I would probably be playing open world rpg video games or reading light novels.
+    Two of my favorite games right now are <b style={{color: darkPurple}}> Genshin Impact</b> 
+    and <b style={{color: darkPurple}}> Honkai: Star Rail</b> because I really like the story lines, 
+    the characters and their Chinese voice actors.
     <br/><br/>
-    One of my key passions is <b style={{color: darkPurple}}>event planning</b>, whether it's for a club, workplace, party, or
-    vacation, if there's an opportunity I always try to be a part of it. I don't know why I enjoy it so much.
+    
   </div>,
   buttonLabel: 'My spreadsheets',
   imgStart: true,
-  img: require('../../images/undraw_educator_re_ju47.svg'),
+  img: require('../../images/StarRail.png'),
   alt: 'Interests',
   dark: false,
   primary: false,
   darkText: true,
-  linkRef: "https://drive.google.com/drive/u/2/folders/1Su2RrV7zt-fZYIWyg7A7FQkvEoXyHUFQ?preview"
+  linkRef: ""
 }
 
 export const homeObjThree = {
