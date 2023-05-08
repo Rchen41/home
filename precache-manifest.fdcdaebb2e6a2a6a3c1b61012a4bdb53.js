@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d595548a8f062872e545",
+    "revision": "ce83b0f56f09a33a81bc",
     "url": "/home/static/css/main.6308437f.chunk.css"
   },
   {
-    "revision": "d595548a8f062872e545",
-    "url": "/home/static/js/main.16202c5b.chunk.js"
+    "revision": "ce83b0f56f09a33a81bc",
+    "url": "/home/static/js/main.1993cb1c.chunk.js"
   },
   {
     "revision": "4e1ec8947a6857600002",
@@ -41,18 +41,18 @@ self.__precacheManifest = [
   },
   {
     "revision": "01f795d94d76c7fadfe233dd27d42bd9",
-    "url": "/home/static/media/profilepic.01f795d9.png"
+    "url": "/home/static/media/Character_Silver_Wolf_Splash_Art.01f795d9.webp"
   },
   {
-    "revision": "457d0a0146887a7f780eb5f9d7a158bb",
-    "url": "/home/static/media/StarRail.457d0a01.png"
+    "revision": "319a75a59bc994fb99ef3cb4455fbdb6",
+    "url": "/home/static/media/Character_Himeko_Splash_Art.319a75a5.webp"
   },
   {
-    "revision": "69054a1da9c8445c1dcd9d30412b6149",
-    "url": "/home/static/media/svg-2.69054a1d.svg"
+    "revision": "7bc67ad73c2f9ba315a06a84348c5c99",
+    "url": "/home/static/media/Character_Kafka_Splash_Art.7bc67ad7.webp"
   },
   {
-    "revision": "468da189fe910fb35dd99d9eccfc1b13",
+    "revision": "afb854e4bbf36635cc26c48487cf90c8",
     "url": "/home/index.html"
   }
 ];
