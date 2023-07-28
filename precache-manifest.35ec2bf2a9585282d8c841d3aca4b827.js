@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ce83b0f56f09a33a81bc",
+    "revision": "a9c2b077df6cf78ef2d2",
     "url": "/home/static/css/main.6308437f.chunk.css"
   },
   {
-    "revision": "ce83b0f56f09a33a81bc",
-    "url": "/home/static/js/main.1993cb1c.chunk.js"
+    "revision": "a9c2b077df6cf78ef2d2",
+    "url": "/home/static/js/main.1b97d54a.chunk.js"
   },
   {
     "revision": "4e1ec8947a6857600002",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/home/static/media/Character_Kafka_Splash_Art.7bc67ad7.webp"
   },
   {
-    "revision": "afb854e4bbf36635cc26c48487cf90c8",
+    "revision": "f2ed5143df48e3d3d895c1feb3967b00",
     "url": "/home/index.html"
   }
 ];
